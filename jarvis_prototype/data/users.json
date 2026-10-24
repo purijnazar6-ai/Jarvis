@@ -1,0 +1,15 @@
+{
+  "nazar": {
+    "name": "Nazar",
+    "age": 19,
+    "location": "Lviv",
+    "ip": "188.163.116.176",
+    "port": 347,
+    "salt": "021f6e1a91e893ccd1207d49f04de15c",
+    "pw_hash": "df9a9b6990f923b3e465ab72b8a9dd365e2871bf18117bb2fab0b3e1029fc7a4",
+    "lang": "en",
+    "uid": "7564c0cfab63",
+    "failed": 0,
+    "locked_until": 0.0
+  }
+}

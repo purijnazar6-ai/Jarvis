@@ -1,0 +1,13 @@
+2026-10-21 22:42:28,820 INFO jarvis.auth: Registered user Nazar
+2026-10-21 22:42:52,263 INFO jarvis.auth: Login OK: Nazar
+2026-10-24 13:08:28,661 INFO jarvis.auth: Login OK: Nazar
+2026-10-24 13:08:57,938 INFO comtypes.client._code_cache: Could not import comtypes.gen, trying to create it.
+2026-10-24 13:08:57,938 INFO comtypes.client._code_cache: Created comtypes.gen directory: 'C:\Users\purij\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-10-24 13:08:57,939 INFO comtypes.client._code_cache: Writing __init__.py file: 'C:\Users\purij\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen\__init__.py'
+2026-10-24 13:08:57,944 INFO comtypes.client._code_cache: Using writeable comtypes cache directory: 'C:\Users\purij\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2026-10-24 13:08:57,965 INFO comtypes.client._generate: Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-10-24 13:08:57,972 INFO comtypes.client._generate: # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-10-24 13:08:58,110 INFO comtypes.client._generate: # Generating comtypes.gen.SpeechLib
+2026-10-24 13:08:58,123 INFO comtypes.client._generate: Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-10-24 13:08:58,124 INFO comtypes.client._generate: # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-10-24 13:08:58,134 INFO comtypes.client._generate: # Generating comtypes.gen.stdole

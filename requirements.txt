@@ -1,0 +1,7 @@
+pytest>=8
+
+# optional, for voice mode and system status:
+# pyttsx3
+# SpeechRecognition
+# pyaudio
+# psutil
